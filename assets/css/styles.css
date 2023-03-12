@@ -658,6 +658,7 @@ a {
     color: #ffffff;
 }
 .footer .separate-footer {
+    margin-top: 26px;
     height: 1px;
     width: 100%;
     background: #59554b;
